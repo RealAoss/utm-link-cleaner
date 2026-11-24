@@ -17,3 +17,15 @@ Expected output includes:
 ```text
 ?id=3#read
 ```
+
+## Limitations
+
+Use the input format shown in the worked example. The transformation runs in browser memory; export the result before closing the tab.
+
+## Development
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for setup and test commands, and the [changelog](CHANGELOG.md) for project history.
+
+## License
+
+[MIT License](LICENSE). Copyright (c) 2026 utm-link-cleaner contributors.

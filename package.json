@@ -1,0 +1,15 @@
+{
+  "name": "utm-link-cleaner",
+  "version": "0.2.0",
+  "private": true,
+  "description": "Remove common campaign parameters from HTTP links while preserving the other query parameters.",
+  "license": "MIT",
+  "type": "module",
+  "exports": "./transform.mjs",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  }
+}
